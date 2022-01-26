@@ -8,8 +8,9 @@ Outside first system status checker and endpoint tester.
 
 ## Features
 
-- Check endpoint validator
-- Upptime
+- Test endpoint contract
+- API uptime monitor
+- System down notification
 
 ## Author
 
