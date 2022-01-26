@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FeMaffezzolli/shadow/main/shadow.png?token=GHSAT0AAAAAABQEDMVH5UV776MX35663TAMYPRYN7Q" width="600px">
+  <img src="/shadow.png" width="600px">
 </div>
 
 ## Description
