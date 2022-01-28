@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/shadow.png" width="600px">
+  <img src="/public/assets/shadow.png" width="600px">
 </div>
 
 ## Description
